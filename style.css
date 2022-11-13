@@ -16,7 +16,7 @@ ul:after {
     clear: both;
 }
 
-clothes {
+.clothes {
     padding-bottom: 30px;
 }
 
@@ -67,6 +67,7 @@ p {
     .clothes {
         float: left;
         margin: 20px;
+        padding-bottom: 0;
     }
     ul {
         width: 900px;
